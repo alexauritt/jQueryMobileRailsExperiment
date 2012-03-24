@@ -17,6 +17,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'jquery-mobile-rails'
 
 # Use unicorn as the web server
 # gem 'unicorn'
